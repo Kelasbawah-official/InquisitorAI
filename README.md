@@ -25,7 +25,7 @@ InquisitorAI is an open-source AI-powered search engine designed to dive deep in
 
 Built on SearxNG, InquisitorAI provides up-to-date information while ensuring your privacy is maintained.
 
-For more details about its architecture and functioning, you can read the [architecture documentation](https://github.com/YourRepo/InquisitorAI/tree/master/docs/architecture/README.md).
+For more details about its architecture and functioning, you can read the [architecture documentation](https://Github.com/Kelasbawah-official/InquisitorAI/tree/master/docs/architecture/README.md).
 
 ## Preview
 
